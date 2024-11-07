@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Back Button -->
+        <ImageView
+            android:id="@+id/back_button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+            android:contentDescription="Back"
+            android:padding="8dp"/>
+
+        <!-- Vegetable Image -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/wortel"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="16dp"/>
+
+        <!-- Vegetable Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wortel"
+            android:textSize="24sp"
+            android:textColor="#333"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-medium"/>
+
+        <!-- Vegetable Details -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wortel adalah sayuran yang kaya akan nutrisi dan memiliki berbagai manfaat untuk kesehatan. Berikut adalah beberapa kandungan gizi utama dalam wortel:
+Beta-karoten: Senyawa ini diubah menjadi vitamin A dalam tubuh, yang penting untuk kesehatan mata dan sistem kekebalan tubuh.
+Vitamin A: Sangat bermanfaat untuk menjaga kesehatan penglihatan, kulit, dan fungsi kekebalan tubuh.
+Vitamin K: Membantu pembekuan darah dan kesehatan tulang.
+Vitamin C: Antioksidan yang meningkatkan sistem imun dan menjaga kesehatan kulit.
+Serat: Membantu pencernaan, mengurangi risiko sembelit, dan baik untuk kesehatan usus.
+Kalium: Mineral penting untuk fungsi otot dan jantung, serta membantu menjaga keseimbangan cairan tubuh.
+Antioksidan: Wortel mengandung antioksidan seperti lutein dan zeaxanthin, yang baik untuk kesehatan mata dan mencegah kerusakan sel akibat radikal bebas.
+
+Kandungan ini membuat wortel menjadi pilihan sayuran yang menyehatkan dan sering dianjurkan dalam diet seimbang."
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"/>
+    </LinearLayout>
+
+
+</ScrollView>

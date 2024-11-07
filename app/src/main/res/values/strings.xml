@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VegieWise</string>
+
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string name="Vegiewise">Vegetable App</string>
+
+        <string name="search_hint">Search for vegetables</string>
+
+        <string name="header_text">Everything With Vegetables</string>
+
+        <string name="bawang_putih">Bawang Putih</string>
+        <string name="cabe_keriting">Cabe Keriting</string>
+        <string name="kol">Kol</string>
+        <string name="buncis">Buncis</string>
+        <string name="wortel">Wortel</string>
+        <string name="terong">Terong</string>
+
+        <string name="content_desc_search_icon">Search Icon</string>
+        <string name="content_desc_header_image">Header Image with Vegetables</string>
+        <string name="content_desc_bawang_putih">Image of Bawang Putih</string>
+        <string name="content_desc_cabe_keriting">Image of Cabe Keriting</string>
+        <string name="content_desc_kol">Image of Kol</string>
+        <string name="content_desc_buncis">Image of Buncis</string>
+        <string name="content_desc_wortel">Image of Wortel</string>
+        <string name="content_desc_terong">Image of Terong</string>
+    </resources>
+
+</resources>
