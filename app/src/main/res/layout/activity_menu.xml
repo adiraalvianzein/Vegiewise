@@ -5,10 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background"
-    tools:context=".MainActivity">
-
-
-    <!-- Grid layout for vegetable items -->
+    tools:context=".MenuActivity">
 
     <EditText
         android:id="@+id/search_bar"
@@ -16,13 +13,13 @@
         android:layout_height="50dp"
         android:layout_below="@+id/headerImage"
         android:layout_marginTop="-270dp"
-        android:background="@drawable/awalan"
-        android:drawableLeft="@drawable/ic_baseline_search_24"
-        android:drawablePadding="8dp"
-        android:hint="search for vegetables"
-        android:padding="10dp">
-
-    </EditText>
+        android:background="@drawable/searchbar"
+        android:drawableStart="@drawable/ic_baseline_search_24"
+    android:drawablePadding="8dp"
+    android:hint="Search For Vegetables"
+    android:textSize="18sp"
+    android:textColorHint="@color/gray"
+    android:padding="10dp"/>
 
     <ImageView
         android:id="@+id/headerImage"
@@ -53,6 +50,7 @@
         android:layout_below="@id/search_bar"
         android:layout_margin="16dp"
         android:columnCount="2">
+        <!-- Vegetable Item akan ditambahkan di sini -->
     </GridLayout>
 
     <GridLayout
@@ -151,7 +149,7 @@
                 android:layout_height="80dp"
                 android:src="@drawable/buncis"
                 android:scaleType="centerCrop"
-                android:contentDescription="buncis" />
+                android:contentDescription="Buncis" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -211,8 +209,6 @@
                 android:textSize="16sp"
                 android:textColor="@color/black"/>
         </LinearLayout>
-
-
 
     </GridLayout>
 

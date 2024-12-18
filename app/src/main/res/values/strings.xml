@@ -1,30 +1,79 @@
 <resources>
-    <string name="app_name">VegieWise</string>
+    <string name="app_name">Vegiewise</string>
+    <string name="terong"><b>Terong</b> memiliki kandungan gizi yang bermanfaat bagi kesehatan.Berikut adalah beberapa kandungan utama dalam terong:
+        \n<b>1.Serat</b>: Baik untuk pencernaan dan membantu menjaga kadar gula darah serta kolesterol.
+    \n<b>2.Vitamin C</b>: Penting untuk meningkatkan sistem kekebalan tubuh dan memiliki sifat antioksidan.
+    \n<b>3.Vitamin K</b>: Membantu dalam pembekuan darah dan kesehatan tulang.Vitamin B6: Penting untuk metabolisme energi dan fungsi otak.
+    \n<b>4.Kalium</b>: Mendukung kesehatan jantung dan menjaga keseimbangan cairan tubuh.
+    \n<b>5.Folat</b>: Baik untuk kesehatan sel, terutama selama kehamilan.
+    \n<b>6.Antioksidan</b>: Mengandung nasunin (terutama di kulit terong) dan antosianin, yang dapat melindungi sel-sel otak dari kerusakan akibat radikal bebas.
+    \n<b>7.Magnesium dan Zat Besi</b>: Berguna untuk fungsi otot, kesehatan tulang, dan pembentukan sel darah merah.
+    \nKarena kandungannya ini, terong sering dikaitkan dengan manfaat untuk kesehatan jantung, pencegahan kanker, dan mendukung pencernaan yang sehat.</string>
 
-    <?xml version="1.0" encoding="utf-8"?>
-    <resources>
+    <string name="wortel"><b>Wortel</b> adalah sayuran yang kaya akan nutrisi dan memiliki berbagai manfaat untuk kesehatan. Berikut adalah beberapa kandungan gizi utama dalam wortel:
+        \n<b>1.Beta-karoten</b>: Senyawa ini diubah menjadi vitamin A dalam tubuh, yang penting untuk kesehatan mata dan sistem kekebalan tubuh.
+ \n<b>2.Vitamin A</b>: Sangat bermanfaat untuk menjaga kesehatan penglihatan, kulit, dan fungsi kekebalan tubuh.
+ \n<b>3.Vitamin K</b>: Membantu pembekuan darah dan kesehatan tulang.
+ \n<b>4.Vitamin C</b>: Antioksidan yang meningkatkan sistem imun dan menjaga kesehatan kulit.
+ \n<b>5.Serat</b>: Membantu pencernaan, mengurangi risiko sembelit, dan baik untuk kesehatan usus.
+ \n<b>6.Kalium</b>: Mineral penting untuk fungsi otot dan jantung, serta membantu menjaga keseimbangan cairan tubuh.
+ \n<b>7.Antioksidan</b>: Wortel mengandung antioksidan seperti lutein dan zeaxanthin, yang baik untuk kesehatan mata dan mencegah kerusakan sel akibat radikal bebas.
+        \nKandungan ini membuat wortel menjadi pilihan sayuran yang menyehatkan dan sering dianjurkan dalam diet seimbang.</string>
 
-        <string name="Vegiewise">Vegetable App</string>
+    <string name="cabe"><b>Cabe keriting</b>, mengandung berbagai nutrisi yang bermanfaat bagi kesehatan. Berikut adalah kandungan utama yang ada dalam cabe keriting:
+    \n<b>1.Capsaicin</b>: Senyawa aktif yang memberi rasa pedas, memiliki sifat anti-inflamasi, membantu meningkatkan metabolisme, dan bisa mengurangi nyeri.
+    \n<b>2.Vitamin C</b>: Berfungsi sebagai antioksidan untuk meningkatkan daya tahan tubuh, menjaga kesehatan kulit, dan melawan radikal bebas.
+    \n<b>3.Vitamin A</b>: Bermanfaat untuk kesehatan mata, kulit, dan sistem kekebalan tubuh.
+    \n<b>4.Vitamin B6</b>: Membantu metabolisme protein dan fungsi saraf.
+    \n<b>5.Vitamin E</b>: Menjaga kesehatan kulit dan memperkuat sistem kekebalan tubuh.
+    \n<b>6.Beta-karoten</b>: Diubah menjadi vitamin A dalam tubuh dan berfungsi sebagai antioksidan.
+    \n<b>7.Flavonoid</b>: Antioksidan yang membantu melawan peradangan dan melindungi sel-sel tubuh.
+    \n<b>8.Serat</b>: Baik untuk pencernaan dan membantu mengendalikan kadar kolesterol.
+    \n<b>9.Mineral</b>: Mengandung kalium, mangan, dan zat besi yang baik untuk kesehatan tulang, pembentukan sel darah merah, dan fungsi saraf.</string>
 
-        <string name="search_hint">Search for vegetables</string>
+    <string name="kol"><b>Kol</b> adalah sayuran yang kaya akan nutrisi dan rendah kalori, sehingga cocok untuk diet sehat. Berikut adalah beberapa kandungan utama dalam kol:
+\n<b>1.Vitamin C</b>: Tinggi antioksidan yang mendukung kekebalan tubuh dan kesehatan kulit.
+\n<b>2.Vitamin K</b>: Penting untuk pembekuan darah dan kesehatan tulang.
+\n<b>3.Vitamin B6</b>: Mendukung metabolisme energi dan kesehatan saraf.
+\n<b>4.Folat</b>: Berperan dalam pembentukan sel darah merah dan sangat penting selama kehamilan.
+\n<b>5.Serat</b>: Membantu pencernaan dan menjaga kesehatan usus.
+\n<b>6.Antioksidan</b>: Seperti sulforaphane dan kaempferol, yang bermanfaat untuk melawan radikal bebas dan melindungi sel dari kerusakan.
+\n<b>7.Kalium</b>: Membantu menjaga keseimbangan cairan dan tekanan darah.
+\n<b>8.Kalsium</b>: Baik untuk kesehatan tulang dan gigi, meskipun dalam jumlah yang lebih rendah dibandingkan sayuran berdaun hijau lainnya.
+\nDengan kandungan gizi tersebut, kol berpotensi mendukung kesehatan jantung, menurunkan risiko kanker, dan menjaga berat badan serta pencernaan yang sehat.</string>
 
-        <string name="header_text">Everything With Vegetables</string>
+    <string name="buncis"><b>Buncis</b> adalah sayuran yang kaya nutrisi dan memiliki beragam manfaat kesehatan. Berikut adalah beberapa kandungan utama dalam buncis:
+    \n<b>1.Vitamin C</b>: Mendukung kekebalan tubuh, berperan sebagai antioksidan, dan meningkatkan kesehatan kulit.
+    \n<b>2.Vitamin K</b>: Berperan dalam pembekuan darah dan kesehatan tulang.
+    \n<b>3.Vitamin A</b>: Baik untuk kesehatan mata dan kulit, serta fungsi kekebalan tubuh.
+    \n<b>4.Folat</b>: Mendukung pembentukan sel darah merah dan penting selama kehamilan.
+    \n<b>5.Serat</b>: Membantu pencernaan, menjaga kadar gula darah, dan menurunkan kolesterol.
+    \n<b>6.Zat Besi</b>: Mendukung pembentukan sel darah merah dan mencegah anemia.
+    \n<b>7.Magnesium</b>: Bermanfaat untuk fungsi otot, saraf, dan menjaga kesehatan tulang.
+    \n<b>8.Antioksidan</b>: Mengandung flavonoid dan karotenoid yang membantu melindungi tubuh dari radikal bebas.
+    \nKarena kandungan gizinya yang beragam, buncis sering dianjurkan untuk kesehatan jantung, menjaga berat badan, dan mendukung kesehatan pencernaan serta sistem kekebalan tubuh.</string>
+
+    <string name="baput"><b>Bawang putih</b> memiliki kandungan senyawa aktif dan nutrisi yang sangat bermanfaat bagi kesehatan. Berikut adalah beberapa kandungan utama dalam bawang putih:
+    \n<b>1.Allicin</b>: Senyawa sulfur yang memiliki sifat antioksidan, antimikroba, dan anti-inflamasi. Allicin juga dikenal membantu menurunkan tekanan darah dan kolesterol.
+    \n<b>2.Vitamin C</b>: Antioksidan yang meningkatkan daya tahan tubuh dan kesehatan kulit.
+    \n<b>3.Vitamin B6</b>: Berperan penting dalam metabolisme energi, fungsi saraf, dan produksi sel darah merah.
+    \n<b>4.Selenium</b>: Mineral yang bertindak sebagai antioksidan dan mendukung fungsi tiroid serta sistem kekebalan tubuh.
+    \n<b>5.Mangan</b>: Penting untuk kesehatan tulang, metabolisme, dan sistem kekebalan tubuh.
+    \n<b>6.Kalsium</b>: Baik untuk kesehatan tulang dan gigi.
+    \n<b>7.Serat</b>: Meskipun dalam jumlah kecil, serat dalam bawang putih bermanfaat untuk pencernaan.
+    \n<b>8.Antioksidan</b>: Selain allicin, bawang putih mengandung senyawa sulfur lainnya, seperti diallyl disulfide dan s-allyl cysteine, yang berfungsi melindungi sel-sel tubuh dari kerusakan.
+        \nBerkat kandungan ini, bawang putih sering dianggap dapat membantu mengurangi risiko penyakit jantung Dll</string>
+
 
         <string name="bawang_putih">Bawang Putih</string>
         <string name="cabe_keriting">Cabe Keriting</string>
-        <string name="kol">Kol</string>
-        <string name="buncis">Buncis</string>
-        <string name="wortel">Wortel</string>
-        <string name="terong">Terong</string>
+        <string name="buncis1">Buncis</string>
+        <string name="wortel1">Wortel</string>
+        <string name="terong1">Terong</string>
+        <string name="kol1">Kol</string>
 
-        <string name="content_desc_search_icon">Search Icon</string>
-        <string name="content_desc_header_image">Header Image with Vegetables</string>
-        <string name="content_desc_bawang_putih">Image of Bawang Putih</string>
-        <string name="content_desc_cabe_keriting">Image of Cabe Keriting</string>
-        <string name="content_desc_kol">Image of Kol</string>
-        <string name="content_desc_buncis">Image of Buncis</string>
-        <string name="content_desc_wortel">Image of Wortel</string>
-        <string name="content_desc_terong">Image of Terong</string>
-    </resources>
+
+
+
 
 </resources>
